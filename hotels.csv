@@ -1,0 +1,11 @@
+,hotel_name,hotel_address,city,state,price_per_night,rating_score,rating_index,facilities,popularity
+0,Luxury City Royal,"84b, Aba-owerri Road",Aba,Abia,12500,5.8,Good,"Bar, Gym, Restaurant, Pool, Internet","2,618"
+1,Hotel Royal Damgrete,"1314 Factory Road, Gra",Umuahia,Abia,35000,7,Very Good,"Bar, Restaurant, Pool, Internet","8,003"
+2,City Global Hotels,32 Ekenna Avenue Off Okigwe Road,Aba,Abia,9016,6.2,Very Good,"Bar, Restaurant, Pool","2,106"
+3,De Merit Executive Suite ,"2 Amaimo Eziama Ossa, Umuahia, Nigeria.",Umuahia,Abia,8000,5.1,Good,"Bar, Restaurant","4,605"
+4,Ibiza Hotel & Resorts,"129 Okigwe Road, Aba",Aba,Abia,55000,Not Available,No Index,"Bar, Gym, Restaurant, Pool","2,410"
+5,Villa Roy Hotels ,19 Mission Hill,Umuahia,Abia,12000,7.8,Very Good,Bar,"2,402"
+6,Craycaston Hotels & Suites,"19 Nwaigwe Ave, Aba 450272, Aba",Aba,Abia,35200,Not Available,No Index,"Bar, Restaurant, Pool","3,818"
+7,New Edge Hotel,"113 Aba Road, Umuahia, Nigeria",Umuahia,Abia,5400,7.3,Very Good,"Bar, Restaurant",807
+8,Don Eric's Hotel and Suites,"Plot 10 Comprehensive Road, By Later Day Saints, Aba",Aba,Abia,18000,Not Available,No Index,,614
+9,West Swiss Hotel,"23a Margaret Avenue, Gra, Aba 450101",Aba,Abia,110500,Not Available,No Index,"Bar, Pool",401
