@@ -2,7 +2,6 @@
 Data engineering task on web scraping
 
 # Web Scraping Process
-The following steps was taken to gather data from hotels.ng:
-
-    Get the URL
-    connect using the #requests module
+The following steps was taken to gathere data from hotels.ng:
+    . Get the URL
+    . connect using the # requests module
